@@ -1,2 +1,2 @@
-export { AppModule } from './src/app/app.module';
+export { SocleModule } from './src/app/app.module';
 console.log("huuuuu");
